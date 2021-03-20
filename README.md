@@ -2,6 +2,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimdeagle&show_icons=true&theme=react&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kimdeagle&repo=servlet-jsp-project)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **kimdeagle/kimdeagle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
