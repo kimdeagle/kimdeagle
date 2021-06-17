@@ -29,9 +29,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kimdeagle&repo=java-console-project&theme=react&cache_seconds=1800" />
 </a>
 
-<br><br>
-
-Thanks to...   
+### 🔎 References   
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats)   
 [Shields.io](https://shields.io/)   
 [Simple Icons](https://simpleicons.org/)   
