@@ -11,7 +11,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimdeagle&layout=compact&theme=react)](https://github.com/kimdeagle)
 
 
-### 📎 SIST Project Repository
+### 📍 SIST Project Repository
 
 <a href="https://github.com/kimdeagle/AirBnNaProject">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kimdeagle&repo=AirBnNaProject&theme=react" />
