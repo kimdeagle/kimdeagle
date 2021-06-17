@@ -2,9 +2,27 @@
 
 <p align="center"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"></p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimdeagle&show_icons=true&theme=react)](https://github.com/kimdeagle)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimdeagle&theme=react)](https://github.com/kimdeagle)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimdeagle&show_icons=true&theme=react&hide=stars,issues)](https://github.com/kimdeagle)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimdeagle&layout=compact&theme=react)](https://github.com/kimdeagle)
+
+
+### SIST Project Repository
+<a href="https://github.com/kimdeagle/AirBnNaProject">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kimdeagle&repo=AirBnNaProject&theme=react" />
+</a>
+<a href="https://github.com/kimdeagle/servlet-jsp-project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kimdeagle&repo=servlet-jsp-project&theme=react" />
+</a>
+<a href="https://github.com/kimdeagle/jdbc-project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kimdeagle&repo=jdbc-project&theme=react" />
+</a>
+<a href="https://github.com/kimdeagle/java-console-project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kimdeagle&repo=java-console-project&theme=react" />
+</a>
+
+
 
 <!--
 **kimdeagle/kimdeagle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,3 +38,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Thanks to...
+[anuraghazra](https://github.com/anuraghazra/github-readme-stats)
