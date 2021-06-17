@@ -21,8 +21,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kimdeagle&repo=java-console-project&theme=react" />
 </a>
 
-　
- 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kimdeagle&repo=jdbc-project&theme=yeblu)](https://github.com/kimdeagle/jdbc-project)
+
  
 Thanks to...
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats)
