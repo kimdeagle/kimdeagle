@@ -14,19 +14,19 @@
 ### 📍 SIST Project Repository
 
 <a href="https://github.com/kimdeagle/AirBnNaProject">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kimdeagle&repo=AirBnNaProject&theme=react" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kimdeagle&repo=AirBnNaProject&theme=react&cache_seconds=1800" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/kimdeagle/servlet-jsp-project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kimdeagle&repo=servlet-jsp-project&theme=react" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kimdeagle&repo=servlet-jsp-project&theme=react&cache_seconds=1800" />
 </a>
 <br><br>
 <a href="https://github.com/kimdeagle/jdbc-project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kimdeagle&repo=jdbc-project&theme=react" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kimdeagle&repo=jdbc-project&theme=react&cache_seconds=1800" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/kimdeagle/java-console-project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kimdeagle&repo=java-console-project&theme=react" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kimdeagle&repo=java-console-project&theme=react&cache_seconds=1800" />
 </a>
 
 <br><br>
