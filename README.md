@@ -14,14 +14,16 @@
 ### SIST Project Repository
 
 <a href="https://github.com/kimdeagle/servlet-jsp-project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kimdeagle&repo=servlet-jsp-project&theme=react" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kimdeagle&repo=servlet-jsp-project&theme=ayu-mirage" />
 </a>
-
+<a href="https://github.com/kimdeagle/jdbc-project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kimdeagle&repo=jdbc-project&theme=ayu-mirage" />
+</a>
 <a href="https://github.com/kimdeagle/java-console-project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kimdeagle&repo=java-console-project&theme=react" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kimdeagle&repo=java-console-project&theme=ayu-mirage" />
 </a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kimdeagle&repo=jdbc-project&theme=yeblu)](https://github.com/kimdeagle/jdbc-project)
+
 
  
 Thanks to...
