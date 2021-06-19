@@ -32,7 +32,7 @@
 
 
 ### 📊 Used Language Ratio
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimdeagle&theme=react)](https://github.com/kimdeagle)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimdeagle&theme=react&exclude_repo=class-source,kimdeagle)](https://github.com/kimdeagle)
 
 
 ### 📍 SIST Project Repository
