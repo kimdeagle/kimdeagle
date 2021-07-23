@@ -28,7 +28,7 @@
 
 
 ### ⭐ Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimdeagle&show_icons=true&theme=react&hide=stars,issues)](https://github.com/kimdeagle)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimdeagle&show_icons=true&theme=react&hide=stars)](https://github.com/kimdeagle)
 
 
 ### 📊 Used Language Ratio
